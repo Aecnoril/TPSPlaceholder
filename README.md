@@ -7,7 +7,7 @@ This plugin is an extension for the PlaceholderAPI plugin. Install it first!
 You can download [PAPI here](https://www.spigotmc.org/resources/placeholderapi.6245)!
 
 After installing PAPI, you can just drop the JAR into the extensions folder inside PAPI's plugin folder.
-
+Want to know how to build the JAR? Look [here]!(https://maven.apache.org/run-maven/)
 
 ## Using the placeholders
 After you've installed PAPI, you can start using it on your server.
